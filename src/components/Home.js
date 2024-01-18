@@ -30,7 +30,6 @@ const Home = () => {
       <div className="cavani_tm_home relative w-full h-full flex items-center">
         <div className="content pl-[100px] w-full text-center flex flex-col items-center">
           <div>
-
           <img
             src="assets/img/intro/profile.png"
             alt="image"

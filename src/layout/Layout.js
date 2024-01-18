@@ -5,6 +5,7 @@ import { Fragment, useEffect } from "react";
 import Cursor from "./Cursor";
 import Footer from "./Footer";
 import Preloader from "./Preloader";
+import Head from "next/head";
 
 const Portfolio = dynamic(() => import("@/src/components/Portfolio"), {
   ssr: false,

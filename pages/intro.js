@@ -17,14 +17,14 @@ const Intro = () => {
       >
         <div className="cavani_tm_intro">
           <div className="main_title">
-            <img src="assets/img/logo/dark.png" alt />
+            <img src="assets/img/logo/dark.png" />
             <p>CV / Resume / Personal / Portfolio Tailwind CSS Template</p>
           </div>
           <div className="demo_list">
             <ul>
               <li>
                 <div className="list_inner">
-                  <img src="assets/img/intro/1.jpg" alt />
+                  <img src="assets/img/intro/1.jpg" />
                   <h3>Static Demo</h3>
                   <Link legacyBehavior href="/">
                     <a className="cavani_tm_full_link" target="_blank" />
@@ -33,7 +33,7 @@ const Intro = () => {
               </li>
               <li>
                 <div className="list_inner">
-                  <img src="assets/img/intro/2.jpg" alt />
+                  <img src="assets/img/intro/2.jpg" />
                   <h3>Glitch Demo</h3>
                   <Link legacyBehavior href="/index-glitch">
                     <a className="cavani_tm_full_link" target="_blank" />
@@ -42,7 +42,7 @@ const Intro = () => {
               </li>
               <li>
                 <div className="list_inner">
-                  <img src="assets/img/intro/4.jpg" alt />
+                  <img src="assets/img/intro/4.jpg" />
                   <h3>Particle Demo</h3>
                   <Link legacyBehavior href="/index-particle">
                     <a className="cavani_tm_full_link" target="_blank" />
@@ -51,7 +51,7 @@ const Intro = () => {
               </li>
               <li>
                 <div className="list_inner">
-                  <img src="assets/img/intro/3.jpg" alt />
+                  <img src="assets/img/intro/3.jpg" />
                   <h3>Water Demo</h3>
                   <Link legacyBehavior href="/index-water">
                     <a className="cavani_tm_full_link" target="_blank" />
